@@ -4,8 +4,8 @@ A Flutter plugin to help you handle search inside your application. Can be used 
 
 
 ## Preview
-![Default AppBar Preview](https://github.com/ashutosh2014/flutter_easy_search_bar/blob/main/workings/preview.gif)
-![Floating AppBar Preview](https://github.com/ashutosh2014/flutter_easy_search_bar/blob/main/workings/preview2.gif)
+![Default AppBar Preview](https://raw.githubusercontent.com/ashutosh2014/flutter_easy_search_bar/main/workings/preview.gif)
+![Floating AppBar Preview](https://raw.githubusercontent.com/ashutosh2014/flutter_easy_search_bar/main/workings/preview2.gif)
 
 ## Installation
 
