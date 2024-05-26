@@ -3,6 +3,10 @@
 A Flutter plugin to help you handle search inside your application. Can be used inside appBar or inside your application body depending on your necessities.
 
 
+## Preview
+![Default AppBar Preview](https://github.com/ashutosh2014/flutter_easy_search_bar/blob/main/workings/preview.gif)
+![Floating AppBar Preview](https://github.com/ashutosh2014/flutter_easy_search_bar/blob/main/workings/preview2.gif)
+
 ## Installation
 
 In the `pubspec.yaml` of your flutter project, add the following dependency:
