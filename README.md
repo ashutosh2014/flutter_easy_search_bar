@@ -13,7 +13,6 @@ In the `pubspec.yaml` of your flutter project, add the following dependency:
 
 ``` yaml
 dependencies:
-  ...
   flutter_easy_search_bar: ^0.0.1
 ```
 
