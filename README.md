@@ -17,34 +17,6 @@ dependencies:
   flutter_easy_search_bar: ^0.0.1
 ```
 
-## Migrating from 1.x.x to 2.x.x
-
-Now instead of using the EasySearchBar widget inside AppBar widget, you can replace the AppBar with it.
-
-This is what you used before:
-
-``` dart
-Scaffold(
-  appBar: AppBar(
-    title: EasySearchBar(
-      title: 'Example',
-      onSearch: (value) => setState(() => searchValue = value)
-    )
-  )
-)
-```
-
-And this is what it is supposed to look like now:
-
-``` dart
-Scaffold(
-  appBar: EasySearchBar(
-    title: Text('Example'),
-    onSearch: (value) => setState(() => searchValue = value)
-  )
-)
-```
-
 ## Basic example with suggestions
 
 You can create a simple searchbar example widget with suggestions with the following example:
